@@ -1,0 +1,29 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "NodeJS tutorial",
+  "main": "Buffer.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cookie-parser": "^1.4.1",
+    "express": "^4.13.4",
+    "multer": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wszzwpshh1/NodeJS.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Zhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wszzwpshh1/NodeJS/issues"
+  },
+  "homepage": "https://github.com/wszzwpshh1/NodeJS#readme"
+}
